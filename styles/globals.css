@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('./navbar.css');
 
 html,
 body {
@@ -6,13 +7,14 @@ body {
   margin: 0;
   font-family: 'Inter', sans-serif;
   background:var(--bg-color);
-  --bg-color: #D7D0C0;
-  --logo-brown: #4A3923;
-  --dark-pink: #CA9983;
-  --brown-maroon: #4A1D15;
-  --banner-pink:#EB77774D;
-  --light-pink: #D0B5A2;
-  --pink-footer:#CA998380;
+  --bg-color: #F1E6C5;
+  --brown-1: #B5875680;;
+  --brown-2-text: #58381F;
+  --brown-3-banner: #DEC584B2;
+  --brown-4-arrow:#ECD4B2;
+  --brown-5-box: #EFDDBB;
+  --brown-6-arrow-2:#E6D1B3;
+  --brown-7-footer: #B58756;
   --black: #000000;
 }
 

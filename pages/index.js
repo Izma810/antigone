@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      hi
+      run away but we{`'`}re running in circles  
     </div>
   )
 }
