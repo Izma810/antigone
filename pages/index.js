@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Patriarchy from '../public/img/Patriarchy.svg';
+import Patriarchy from '../public/img/patriarchy.svg';
 import Medusa from '../public/img/medusa.svg';
 import Icons from '../data/icons.json';
 import Line from '../public/icons/sline.svg';
