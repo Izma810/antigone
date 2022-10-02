@@ -1,0 +1,18 @@
+[
+    {
+        "id":"1",
+        "imgpath":"/icons/instagram.svg"
+    },
+    {
+        "id":"2",
+        "imgpath":"/icons/linkedin.svg"
+    },
+    {
+        "id":"3",
+        "imgpath":"/icons/mail.svg"
+    },
+    {
+        "id":"4",
+        "imgpath":"/icons/whatsapp.svg"
+    }
+]
