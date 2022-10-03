@@ -11,7 +11,7 @@ function Home() {
         <div className='divider__text'>
           <div className='text__heading'>
             <Image src={Patriarchy} 
-              height={150}
+              height={200}
               alt='and you were tossing me the car keys, duck the patriarchy, keychain on the ground'
             />
           </div>

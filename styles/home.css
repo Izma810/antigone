@@ -16,13 +16,14 @@
 }
 
 .text__heading{
-    margin-left:-50px;
+    margin-left:-10px;
 }
 
 .text__para{
     width:75%;
-    margin-top:30px;
-    font-weight:500;
+    margin-top:20px;
+    font-weight:600;
+    font-size:18px;
 }
 
 .text__icon-line{
@@ -45,6 +46,11 @@
     border-radius:50%;
     align-items: center;
     justify-content: center;
+    transition:0.2s ease-in-out;
+}
+
+.icons__sub:hover{
+    background:#B5875633;
 }
 
 .icon-line__line{
