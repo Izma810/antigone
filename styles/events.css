@@ -1,0 +1,6 @@
+.events-section{
+    background: url(../public/img/eventsbg.svg);
+    height:110vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
