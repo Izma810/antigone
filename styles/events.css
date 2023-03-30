@@ -68,3 +68,10 @@
     font-size:700;
 }
 
+.box__see-more{
+    margin-left: auto;
+    margin-right: 30px;
+    text-align:right;
+    font-weight:600;
+    font-size:18px;
+}

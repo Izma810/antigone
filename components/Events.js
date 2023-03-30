@@ -54,7 +54,13 @@ function Events(){
                     </div>
 
                 </div>
+
             </div>
+
+            <div className='box__see-more'>
+                        See More...
+            </div>
+            
         </section>
     )
 }
