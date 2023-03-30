@@ -3,4 +3,68 @@
     height:110vh;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-top:80px;
+    padding:80px;
 }
+
+.event-sec__img-div{
+    margin-left: auto;
+    margin-right:50px;
+    text-align:right;
+}
+
+.events-sec__text{
+    display:flex;
+    flex-direction: row;
+    margin-top:100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.etext__box{
+    margin:30px;
+    background-color:var(--brown-5-box);
+    padding:30px 40px;
+    border-radius:5px;
+    height:auto;
+    padding-bottom:40px;
+}
+
+.box__mini-text{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.title__bold{
+    font-size:28px;
+    font-weight:700;
+}
+
+.title__date{
+    font-size:16px;
+    margin-top:-15px;
+    font-weight:500;
+}
+
+.mini-text__arrow{
+    text-align:right;
+    margin-left:auto;
+    margin-right:0;
+    border-radius:50%;
+    background:var(--brown-6-arrow-2);
+    padding:12px;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.mini-text__arrow:hover{
+    background-color: #DAC5A6;
+}
+
+.mini-text__para{
+    margin-top:20px;
+    font-size:18px;
+    font-size:700;
+}
+
