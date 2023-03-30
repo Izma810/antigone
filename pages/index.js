@@ -4,6 +4,7 @@ import Medusa from '../public/img/medusa.svg';
 import Icons from '../data/icons.json';
 import Line from '../public/icons/sline.svg';
 import Events from '../components/Events';
+import Announcements from '../components/Announcements';
 
 function Home() {
   return (
@@ -48,7 +49,10 @@ function Home() {
           <Image src={Medusa} width={500} alt='nun bhai'/>
         </div>
       </div>
+
         <Events />
+        <Announcements />
+        
     </section>
   )
 }

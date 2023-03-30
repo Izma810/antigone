@@ -5,6 +5,8 @@
     background-repeat: no-repeat;
     margin-top:80px;
     padding:80px;
+    align-items: center;
+    justify-content: center;
 }
 
 .event-sec__img-div{

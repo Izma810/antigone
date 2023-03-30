@@ -2,6 +2,7 @@
 @import url('./navbar.css');
 @import url('./home.css');
 @import url('./events.css');
+@import url('./announcements.css');
 
 html,
 body {
