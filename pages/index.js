@@ -4,6 +4,7 @@ import Medusa from '../public/img/medusa.svg';
 import Icons from '../data/icons.json';
 import Line from '../public/icons/sline.svg';
 import Events from '../components/Events';
+import Blogs from '../components/Blogs';
 import Announcements from '../components/Announcements';
 
 function Home() {
@@ -52,7 +53,8 @@ function Home() {
 
         <Events />
         <Announcements />
-        
+        <Blogs />
+
     </section>
   )
 }
