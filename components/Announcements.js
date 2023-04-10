@@ -9,7 +9,7 @@ function Announcement(){
             <div className='announce-sec__img-div'>
                 <Image src={Announcements} alt='helo' className='img-div__img'/>
             </div>
-
+ 
             <div className='announce-sec__boxes'>
                 {
                     AnnounceData.map((data) => {

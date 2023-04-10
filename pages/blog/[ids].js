@@ -11,8 +11,6 @@ function BlogPageId(){
     const [data, setData] = useState();
 
     useEffect(() => {
-    const lol = data;
-    setData(lol);
     }, [router.query.ids]);
 
     return(
