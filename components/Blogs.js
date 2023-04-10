@@ -8,13 +8,6 @@ function Blogs(){
     const router = useRouter();
     const ids = router.query.ids;
 
-    const [data, setData] = useState();
-
-    useEffect(() => {
-    const lol = ;
-    setData(lol);
-    }, [router.query.ids]);
-
     return(
         <section className='blogs-section'>
             <div className='blgsec__img-div'>
